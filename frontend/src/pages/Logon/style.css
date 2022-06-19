@@ -26,6 +26,10 @@
     font-weight: 500;
     transition: opacity .2s;
 }
+.logon-container section form svg{
+    margin-right: 8px;
+}
+
 .logon-container section form a:hover{
     opacity: 0.8;
 }
